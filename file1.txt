@@ -1,1 +1,3 @@
 my_name = 'Suda'
+age = 22
+mobile_number = 8899007722
